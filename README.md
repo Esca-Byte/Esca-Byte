@@ -32,7 +32,8 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
   <tr>
     <td align="center" width="50%">
       <h3>🛠️ BitMask</h3>
-      <p>An open-source project focused on security and under-the-hood technical exploration.</p>
+      <p>A zero-knowledge, end-to-end encrypted chat platform with self-destructing messages.
+No accounts. No logs. No trace.</p>
       <a href="https://github.com/Esca-Byte/BitMask">View Repository</a>
     </td>
     <td align="center" width="50%">
