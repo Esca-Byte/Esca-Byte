@@ -14,15 +14,15 @@
 
 ### 👨‍💻 About Me
 
-I'm an IT undergraduate passionate about crafting sleek digital experiences and understanding how things work under the hood. From building full-stack web applications and deploying them to the cloud, to diving into reverse engineering and AI integration, I love pushing the boundaries of technology.
+I'm an IT undergraduate passionate about crafting sleek digital experiences and understanding how things work under the hood. From building full-stack web applications and deploying them to the cloud, to diving into reverse engineering, 3D development, and AI integration, I love pushing the boundaries of technology.
 
 * 🎓 Currently pursuing my B.Sc. in Information Technology.
 * 💻 Building dynamic web applications using **JavaScript/TypeScript**, **Next.js**, and **Tailwind CSS**.
 * 🎨 Passionate about UI/UX engineering, frequently designing and sharing visually appealing web components on platforms like **Uiverse.io**.
 * ☁️ Architecting backend systems and deploying via **Vercel, Render, Railway**, and **Netlify**.
-* 🧠 Experimenting with Local LLMs using **Ollama** and integrating advanced AI tools into modern development workflows.
+* 🧠 Developing local AI solutions, such as web interfaces for GGUF Large Language Models.
+* 🕹️ Crafting 3D assets and environments using **Blender** and **Unreal Engine 5**, alongside scripting in **Roblox Studio**.
 * 🔐 Exploring **Cybersecurity**, code obfuscation, and reverse engineering.
-* 🎮 Building and scripting mechanics in **Roblox Studio**.
 
 ---
 
@@ -36,9 +36,9 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
       <a href="https://github.com/Esca-Byte/BitMask">View Repository</a>
     </td>
     <td align="center" width="50%">
-      <h3>🎮 Roblox Game Development</h3>
-      <p>Scripting complex game loops, UI elements, and custom mechanics within the Roblox ecosystem.</p>
-      <a href="#">View Profile/Game</a>
+      <h3>🤖 GGUF Model UI Interface</h3>
+      <p>A lightweight, local web interface for running and chatting with GGUF Large Language Models (LLMs) using Flask and llama-cpp-python. This project allows you to download models directly from Hugging Face, manage local model files, and chat with them using a clean web UI with streaming responses.</p>
+      <a href="https://github.com/Esca-Byte/GGUF-model-ui-interface">View Repository</a>
     </td>
   </tr>
 </table>
@@ -75,6 +75,12 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+**Game Development & 3D:**
+<br>
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+
 **Cybersecurity & Security Tools:**
 <br>
 ![Code Obfuscation](https://img.shields.io/badge/Code_Obfuscation-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -87,7 +93,6 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
 ![Orchids](https://img.shields.io/badge/Orchids_AI-FF007F?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity_AI-4B0082?style=for-the-badge&logo=rocket&logoColor=white)
 ![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 ---
 
