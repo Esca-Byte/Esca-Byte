@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation">
   
-  <h1>Hi there, I'm Suman Kumar (Esca Byte) 👋</h1>
+  <h1>Hi there, I'm Esca-Byte 👋</h1>
   <h3>B.Sc. IT Student | Full-Stack Developer | Content Creator</h3>
 
   <p align="center">
@@ -18,11 +18,11 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
 
 * 🎓 Currently pursuing my B.Sc. in Information Technology.
 * 💻 Building dynamic web applications using **JavaScript/TypeScript**, **Next.js**, and **Tailwind CSS**.
+* 🎨 Passionate about UI/UX engineering, frequently designing and sharing visually appealing web components on platforms like **Uiverse.io**.
 * ☁️ Architecting backend systems and deploying via **Vercel, Render, Railway**, and **Netlify**.
-* 🧠 Experimenting with Local LLMs using **Ollama** and integrating AI tools into modern development workflows.
+* 🧠 Experimenting with Local LLMs using **Ollama** and integrating advanced AI tools into modern development workflows.
 * 🔐 Exploring **Cybersecurity**, code obfuscation, and reverse engineering.
 * 🎮 Building and scripting mechanics in **Roblox Studio**.
-* 📹 Sharing tech tutorials, gaming content, and development journeys across YouTube.
 
 ---
 
@@ -32,7 +32,7 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
   <tr>
     <td align="center" width="50%">
       <h3>🛠️ BitMask</h3>
-      <p>An open-source project focused on security and under-the-hood technical exploration. <i>(Add a brief 1-sentence description of what it does here)</i></p>
+      <p>An open-source project focused on security and under-the-hood technical exploration.</p>
       <a href="https://github.com/Esca-Byte/BitMask">View Repository</a>
     </td>
     <td align="center" width="50%">
@@ -75,14 +75,19 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+**Cybersecurity & Security Tools:**
+<br>
+![Code Obfuscation](https://img.shields.io/badge/Code_Obfuscation-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 **AI, IDEs & Specialized Tools:**
 <br>
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-090909?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Orchids](https://img.shields.io/badge/Orchids_AI-FF007F?style=for-the-badge&logo=dependabot&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_AI-4B0082?style=for-the-badge&logo=rocket&logoColor=white)
 ![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-<br>
-`LLM Integration` • `Orchids AI` • `Antigravity AI` • `Code Obfuscation`
 
 ---
 
