@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZvc3BwbjczM3g3NzZwNmZhYW1rcnpqOW4zcGVyb216aTQ0dDBtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="440" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation">
   
   <h1>Hi there, I'm Suman Kumar (Esca Byte) 👋</h1>
-  <h3>B.Sc. IT Student | Full-Stack Web Developer | Content Creator</h3>
+  <h3>B.Sc. IT Student | Full-Stack Developer | Content Creator</h3>
 
   <p align="center">
     <a href="https://escadev.me"><img src="https://img.shields.io/badge/Portfolio-escadev.me-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -14,40 +14,75 @@
 
 ### 👨‍💻 About Me
 
-I'm an IT undergraduate passionate about crafting sleek digital experiences and understanding how things work under the hood. Whether it's building striking UI/UX components, optimizing full-stack web applications, or exploring the intricacies of cybersecurity and reverse engineering, I love diving deep into technology.
+I'm an IT undergraduate passionate about crafting sleek digital experiences and understanding how things work under the hood. From building full-stack web applications and deploying them to the cloud, to diving into reverse engineering and AI integration, I love pushing the boundaries of technology.
 
 * 🎓 Currently pursuing my B.Sc. in Information Technology.
-* 💻 Focused on **Full-Stack Web Development**, building responsive and dynamic projects with **JavaScript** and **Tailwind CSS**.
-* 🌱 Sharpening my core logic and backend foundations with **C, C++, and C#**.
-* ⚡ Leveraging AI-powered IDEs like Cursor, Orchids, and Antigravity to accelerate development and problem-solving.
+* 💻 Building dynamic web applications using **JavaScript/TypeScript**, **Next.js**, and **Tailwind CSS**.
+* ☁️ Architecting backend systems and deploying via **Vercel, Render, Railway**, and **Netlify**.
+* 🧠 Experimenting with Local LLMs using **Ollama** and integrating AI tools into modern development workflows.
+* 🔐 Exploring **Cybersecurity**, code obfuscation, and reverse engineering.
 * 🎮 Building and scripting mechanics in **Roblox Studio**.
-* 📹 Sharing tech tutorials, gaming content, and development journeys across YouTube and other platforms.
-* 🎯 Future goals: Mastering DSA, preparing for GATE, and continuously building impactful open-source projects.
+* 📹 Sharing tech tutorials, gaming content, and development journeys across YouTube.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Projects
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ BitMask</h3>
+      <p>An open-source project focused on security and under-the-hood technical exploration. <i>(Add a brief 1-sentence description of what it does here)</i></p>
+      <a href="https://github.com/Esca-Byte/BitMask">View Repository</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎮 Roblox Game Development</h3>
+      <p>Scripting complex game loops, UI elements, and custom mechanics within the Roblox ecosystem.</p>
+      <a href="#">View Profile/Game</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+**Programming Languages:**
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Frontend & Design:**
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Web Frameworks & Libraries:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Databases & Storage:**
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-**IDEs & AI Tools:**
-![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+**Cloud & Deployment:**
+<br>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**AI, IDEs & Specialized Tools:**
+<br>
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Orchids](https://img.shields.io/badge/Orchids_AI-FF007F?style=for-the-badge&logo=dependabot&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_AI-4B0082?style=for-the-badge&logo=rocket&logoColor=white)
-
-**Platforms:** ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-
-**Focus Areas:** `Web Development` • `UI/UX Engineering` • `Cybersecurity` • `Reverse Engineering` • `Content Creation`
+![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+<br>
+`LLM Integration` • `Orchids AI` • `Antigravity AI` • `Code Obfuscation`
 
 ---
 
