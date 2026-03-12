@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNweno1ZzBwMHJ6YmNuODFwaDNvZjkycHNsNmNtcHZnbG5vZjNmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="250" alt="Coding Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNweno1ZzBwMHJ6YmNuODFwaDNvZjkycHNsNmNtcHZnbG5vZjNmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="300" alt="Coding Animation">
   
   <h1>Hi there, I'm Esca-Byte 👋</h1>
   <h3>B.Sc. IT Student | Full-Stack Developer | Content Creator</h3>
